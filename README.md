@@ -1,2 +1,2 @@
 # Reste-Alerte
-Project inspired by Delightfully Decitful
+Project inspired by an application from series
